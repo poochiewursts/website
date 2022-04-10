@@ -9,7 +9,7 @@ const App = () => {
   return (
     <Router>
       <div>
-        <Route exact component={Page} path="/website/" />
+        <Route exact component={Page} path="/" />
       </div>
     </Router>
   )
